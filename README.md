@@ -21,4 +21,5 @@ cd /media/vim/taglist
 git pull origin master
 ```
 ## Upgrading all bundled plugins
-`git submodule foreach git pull origin master`
+`git submodule foreach git pull origin master` or if some plugin doesn't use master as the name of the branch
+`git submodule foreach git pull`

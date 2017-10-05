@@ -34,3 +34,6 @@
 [submodule "c-syntax.vim"]
 	path = c-syntax.vim
 	url = https://github.com/NLKNguyen/c-syntax.vim
+[submodule "cscope-maps"]
+	path = cscope-maps
+	url = https://github.com/joe-skb7/cscope-maps.git

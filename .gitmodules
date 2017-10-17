@@ -37,3 +37,6 @@
 [submodule "cscope-maps"]
 	path = cscope-maps
 	url = https://github.com/joe-skb7/cscope-maps.git
+[submodule "todo-vim"]
+	path = todo-vim
+	url = https://github.com/vim-scripts/todo-vim

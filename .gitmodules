@@ -25,12 +25,6 @@
 [submodule "vim-sensible"]
 	path = vim-sensible
 	url = https://github.com/tpope/vim-sensible
-[submodule "YouCompleteMe"]
-	path = YouCompleteMe
-	url = https://github.com/Valloric/YouCompleteMe
-[submodule "YCM-Generator"]
-	path = YCM-Generator
-	url = https://github.com/rdnetto/YCM-Generator
 [submodule "c-syntax.vim"]
 	path = c-syntax.vim
 	url = https://github.com/NLKNguyen/c-syntax.vim

@@ -34,3 +34,6 @@
 [submodule "todo-vim"]
 	path = todo-vim
 	url = https://github.com/vim-scripts/todo-vim
+[submodule "completor.vim"]
+	path = completor.vim
+	url = https://github.com/maralla/completor.vim

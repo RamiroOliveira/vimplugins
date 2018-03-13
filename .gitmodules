@@ -37,3 +37,9 @@
 [submodule "completor.vim"]
 	path = completor.vim
 	url = https://github.com/maralla/completor.vim
+[submodule "vim-cpp-enhanced-highlight"]
+	path = vim-cpp-enhanced-highlight
+	url = https://github.com/octol/vim-cpp-enhanced-highlight
+[submodule "vim-linux-coding-style"]
+	path = vim-linux-coding-style
+	url = https://github.com/vivien/vim-linux-coding-style

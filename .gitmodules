@@ -43,6 +43,3 @@
 [submodule "vim-tmux"]
 	path = vim-tmux
 	url = git://github.com/tmux-plugins/vim-tmux.git
-[submodule "pylint-vim"]
-	path = pylint-vim
-	url = https://github.com/gryf/pylint-vim

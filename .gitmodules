@@ -10,9 +10,6 @@
 [submodule "nerdtree-git-plugin"]
 	path = nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin
-[submodule "rust.vim"]
-	path = rust.vim
-	url = https://github.com/rust-lang/rust.vim
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
@@ -46,3 +43,6 @@
 [submodule "vim-tmux"]
 	path = vim-tmux
 	url = git://github.com/tmux-plugins/vim-tmux.git
+[submodule "pylint-vim"]
+	path = pylint-vim
+	url = https://github.com/gryf/pylint-vim

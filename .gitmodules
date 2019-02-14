@@ -43,3 +43,9 @@
 [submodule "vim-tmux"]
 	path = vim-tmux
 	url = git://github.com/tmux-plugins/vim-tmux.git
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "vim-pudb"]
+	path = vim-pudb
+	url = https://github.com/KangOl/vim-pudb

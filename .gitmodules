@@ -49,3 +49,6 @@
 [submodule "vim-pudb"]
 	path = vim-pudb
 	url = https://github.com/KangOl/vim-pudb
+[submodule "git-blame.vim"]
+	path = git-blame.vim
+	url = https://github.com/zivyangll/git-blame.vim

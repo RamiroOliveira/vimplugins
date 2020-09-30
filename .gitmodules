@@ -52,3 +52,6 @@
 [submodule "git-blame.vim"]
 	path = git-blame.vim
 	url = https://github.com/zivyangll/git-blame.vim
+[submodule "robotframework-vim"]
+	path = robotframework-vim
+	url = git://github.com/mfukar/robotframework-vim.git

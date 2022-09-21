@@ -43,3 +43,6 @@
 [submodule "tagbar"]
 	path = tagbar
 	url = https://github.com/preservim/tagbar
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe

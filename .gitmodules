@@ -28,9 +28,6 @@
 [submodule "cscope-maps"]
 	path = cscope-maps
 	url = https://github.com/joe-skb7/cscope-maps.git
-[submodule "todo-vim"]
-	path = todo-vim
-	url = https://github.com/vim-scripts/todo-vim
 [submodule "completor.vim"]
 	path = completor.vim
 	url = https://github.com/maralla/completor.vim
@@ -58,3 +55,6 @@
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/preservim/tagbar

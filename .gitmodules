@@ -27,7 +27,7 @@
 	url = https://github.com/vivien/vim-linux-coding-style
 [submodule "vim-tmux"]
 	path = vim-tmux
-	url = git://github.com/tmux-plugins/vim-tmux.git
+	url = https://github.com/tmux-plugins/vim-tmux.git
 [submodule "vim-pudb"]
 	path = vim-pudb
 	url = https://github.com/KangOl/vim-pudb
@@ -36,7 +36,7 @@
 	url = https://github.com/zivyangll/git-blame.vim
 [submodule "robotframework-vim"]
 	path = robotframework-vim
-	url = git://github.com/mfukar/robotframework-vim.git
+	url = https://github.com/mfukar/robotframework-vim.git
 [submodule "rust.vim"]
 	path = rust.vim
 	url = https://github.com/rust-lang/rust.vim.git

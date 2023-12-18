@@ -3,9 +3,9 @@ My vim plugins
 
 ## Instalation
 ```
-cd /media/vim
+cd ~/
 
-git clone http://github.com/RamiroOliveira/vimplugins.git /media/vim
+git clone http://github.com/RamiroOliveira/vimplugins.git ~/.vimplugins
 
 git submodule init
 
@@ -21,5 +21,5 @@ cd /media/vim/taglist
 git pull origin master
 ```
 ## Upgrading all bundled plugins
-`git submodule foreach git pull origin master` or if some plugin doesn't use master as the name of the branch
-`git submodule foreach git pull`
+`git submodule foreach 'case $name in YCM-Generator) git checkout stable ;; *) git checkout master ;; esac'`
+`git submodule pull`

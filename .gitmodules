@@ -46,3 +46,9 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/ycm-core/YouCompleteMe
+[submodule "YCM-Generator"]
+	path = YCM-Generator
+	url = https://github.com/rdnetto/YCM-Generator
+[submodule "color_coded"]
+	path = color_coded
+	url = https://github.com/jeaye/color_coded
